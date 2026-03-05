@@ -22,11 +22,11 @@ Disponível em três formatos:
 
 ---
 
-### 2. Template Simples LaTeX
+### 2. Template Simples
 
 _Desenvolvido por: Eduardo Freitas Fernandes_
 
-Um template minimalista em LaTeX focado na simplicidade e rapidez. É a escolha ideal para relatórios curtos, trabalhos laboratoriais ou entregas rápidas.
+Um template minimalista em LaTeX e Typst focado na simplicidade e rapidez. É a escolha ideal para relatórios curtos, trabalhos laboratoriais ou entregas rápidas.
 
 - **Destaques:** Layout limpo, exemplos básicos de tabelas e inserção de imagens.
 - **Uso:** Projetos de pequena escala.
